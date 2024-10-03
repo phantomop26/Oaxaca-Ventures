@@ -1,0 +1,426 @@
+[
+    {
+        "name": "L'Ecole Restaurant",
+        "category": "restaurant"
+    },
+    {
+        "name": "Vin et Fleur",
+        "category": "restaurant"
+    },
+    {
+        "name": "Maison Close",
+        "category": "restaurant"
+    },
+    {
+        "name": "Pasquale Jones",
+        "category": "restaurant"
+    },
+    {
+        "name": "Starbucks",
+        "category": "cafe"
+    },
+    {
+        "name": "Raoul's",
+        "category": "restaurant"
+    },
+    {
+        "name": "Le Souk New York - Restaurant & Hookah Lounge",
+        "category": "restaurant"
+    },
+    {
+        "name": "Felix Roasting Co.",
+        "category": "cafe"
+    },
+    {
+        "name": "Dos Caminos",
+        "category": "restaurant"
+    },
+    {
+        "name": "Starbucks",
+        "category": "cafe"
+    },
+    {
+        "name": "La Esquina",
+        "category": "restaurant"
+    },
+    {
+        "name": "Citizens",
+        "category": "cafe"
+    },
+    {
+        "name": "Champers Social Club",
+        "category": "restaurant"
+    },
+    {
+        "name": "Jack\u2019s Wife Freda",
+        "category": "restaurant"
+    },
+    {
+        "name": "Bar Moga",
+        "category": "restaurant"
+    },
+    {
+        "name": "Bibliotheque Cafe & Winebar",
+        "category": "cafe"
+    },
+    {
+        "name": "Lucia Pizza",
+        "category": "restaurant"
+    },
+    {
+        "name": "Charley Bird",
+        "category": "restaurant"
+    },
+    {
+        "name": "Caff\u00e9 Bene",
+        "category": "cafe"
+    },
+    {
+        "name": "Marcella",
+        "category": "restaurant"
+    },
+    {
+        "name": "Song\u2019 E Napule",
+        "category": "restaurant"
+    },
+    {
+        "name": "Comodo",
+        "category": "restaurant"
+    },
+    {
+        "name": "12 Chairs",
+        "category": "restaurant"
+    },
+    {
+        "name": "Emmett's",
+        "category": "restaurant"
+    },
+    {
+        "name": "Raku Soho",
+        "category": "restaurant"
+    },
+    {
+        "name": "Lupa",
+        "category": "restaurant"
+    },
+    {
+        "name": "Mikaku",
+        "category": "restaurant"
+    },
+    {
+        "name": "19 Cleveland",
+        "category": "restaurant"
+    },
+    {
+        "name": "Caf\u00e9 Select",
+        "category": "restaurant"
+    },
+    {
+        "name": "Osteria Morini",
+        "category": "restaurant"
+    },
+    {
+        "name": "Fanelli Cafe",
+        "category": "restaurant"
+    },
+    {
+        "name": "Balthazar",
+        "category": "restaurant"
+    },
+    {
+        "name": "Blue Ribbon",
+        "category": "restaurant"
+    },
+    {
+        "name": "The Dutch",
+        "category": "restaurant"
+    },
+    {
+        "name": "Dominique Ansel Bakery",
+        "category": "cafe"
+    },
+    {
+        "name": "Miss Lily's (Soho)",
+        "category": "restaurant"
+    },
+    {
+        "name": "Sartiano\u2019s",
+        "category": "restaurant"
+    },
+    {
+        "name": "Jane",
+        "category": "restaurant"
+    },
+    {
+        "name": "Da Marcella",
+        "category": "restaurant"
+    },
+    {
+        "name": "Black Tap",
+        "category": "restaurant"
+    },
+    {
+        "name": "Blue Ribbon Brassiere",
+        "category": "restaurant"
+    },
+    {
+        "name": "Arturo's Coal Oven Pizza",
+        "category": "restaurant"
+    },
+    {
+        "name": "Boqueria Soho",
+        "category": "restaurant"
+    },
+    {
+        "name": "lupe's East L.A. Kitchen",
+        "category": "restaurant"
+    },
+    {
+        "name": "Think Coffee",
+        "category": "cafe"
+    },
+    {
+        "name": "Pepe Rosso",
+        "category": "restaurant"
+    },
+    {
+        "name": "Unnamed Place",
+        "category": "restaurant"
+    },
+    {
+        "name": "Antique Garage",
+        "category": "restaurant"
+    },
+    {
+        "name": "Lure Fishbar",
+        "category": "restaurant"
+    },
+    {
+        "name": "Morgenstern's Finest Ice Cream",
+        "category": "cafe"
+    },
+    {
+        "name": "Lucky's",
+        "category": "restaurant"
+    },
+    {
+        "name": "Ground Support Caf\u00e9",
+        "category": "cafe"
+    },
+    {
+        "name": "GMT Tavern",
+        "category": "restaurant"
+    },
+    {
+        "name": "Bosie",
+        "category": "restaurant"
+    },
+    {
+        "name": "Mocha Burger",
+        "category": "restaurant"
+    },
+    {
+        "name": "Molcajete Taqueria",
+        "category": "restaurant"
+    },
+    {
+        "name": "Pera SoHo",
+        "category": "restaurant"
+    },
+    {
+        "name": "Sessanta",
+        "category": "restaurant"
+    },
+    {
+        "name": "Aurora SoHo",
+        "category": "restaurant"
+    },
+    {
+        "name": "Birch Coffee",
+        "category": "cafe"
+    },
+    {
+        "name": "Her Name Was Carmen",
+        "category": "restaurant"
+    },
+    {
+        "name": "Sadelle\u2019s",
+        "category": "restaurant"
+    },
+    {
+        "name": "Chobani SoHo",
+        "category": "cafe"
+    },
+    {
+        "name": "La Colombe Coffee Roasters",
+        "category": "cafe"
+    },
+    {
+        "name": "Papatzu Mexican Restaurant",
+        "category": "restaurant"
+    },
+    {
+        "name": "Pinch Chinese",
+        "category": "restaurant"
+    },
+    {
+        "name": "Sanctuary T",
+        "category": "cafe"
+    },
+    {
+        "name": "Banter",
+        "category": "cafe"
+    },
+    {
+        "name": "Carbone",
+        "category": "restaurant"
+    },
+    {
+        "name": "The Woo",
+        "category": "restaurant"
+    },
+    {
+        "name": "Unnamed Place",
+        "category": "cafe"
+    },
+    {
+        "name": "San Carlo Osteria Piemonte",
+        "category": "restaurant"
+    },
+    {
+        "name": "Despa\u00f1a",
+        "category": "cafe"
+    },
+    {
+        "name": "Piccola Cucina",
+        "category": "restaurant"
+    },
+    {
+        "name": "T2 tea",
+        "category": "cafe"
+    },
+    {
+        "name": "Barolo",
+        "category": "restaurant"
+    },
+    {
+        "name": "Piccola Cuccina Estiatorio",
+        "category": "restaurant"
+    },
+    {
+        "name": "King",
+        "category": "restaurant"
+    },
+    {
+        "name": "Unnamed Place",
+        "category": "restaurant"
+    },
+    {
+        "name": "Famous Ben's Pizza",
+        "category": "restaurant"
+    },
+    {
+        "name": "MAMO",
+        "category": "restaurant"
+    },
+    {
+        "name": "Mishka Soho",
+        "category": "restaurant"
+    },
+    {
+        "name": "Bistro les Amis",
+        "category": "restaurant"
+    },
+    {
+        "name": "Tomo21 Sushi",
+        "category": "restaurant"
+    },
+    {
+        "name": "Unnamed Place",
+        "category": "restaurant"
+    },
+    {
+        "name": "Cipriani Downtown NYC",
+        "category": "restaurant"
+    },
+    {
+        "name": "Joe & The Juice",
+        "category": "cafe"
+    },
+    {
+        "name": "Caput Mundi",
+        "category": "restaurant"
+    },
+    {
+        "name": "Matchaful",
+        "category": "cafe"
+    },
+    {
+        "name": "Omen Azen",
+        "category": "restaurant"
+    },
+    {
+        "name": "DOMODOMO",
+        "category": "restaurant"
+    },
+    {
+        "name": "Il Corallo Trattoria",
+        "category": "restaurant"
+    },
+    {
+        "name": "Joe & The Juice",
+        "category": "cafe"
+    },
+    {
+        "name": "Shuka",
+        "category": "restaurant"
+    },
+    {
+        "name": "Eataly - SoHo",
+        "category": "restaurant"
+    },
+    {
+        "name": "Blank Slate",
+        "category": "cafe"
+    },
+    {
+        "name": "Blank Street Coffee",
+        "category": "cafe"
+    },
+    {
+        "name": "Mangia",
+        "category": "cafe"
+    },
+    {
+        "name": "Beatnic",
+        "category": "restaurant"
+    },
+    {
+        "name": "Panther Coffee",
+        "category": "cafe"
+    },
+    {
+        "name": "Sui Yoga Studio.Cafe",
+        "category": "cafe"
+    },
+    {
+        "name": "Mori",
+        "category": "restaurant"
+    },
+    {
+        "name": "Restaurante F\u00e9lix",
+        "category": "restaurant"
+    },
+    {
+        "name": "Kintsugi",
+        "category": "restaurant"
+    },
+    {
+        "name": "Now or Never",
+        "category": "cafe"
+    },
+    {
+        "name": "Lucia Alimentari",
+        "category": "restaurant"
+    }
+]
